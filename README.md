@@ -1,4 +1,4 @@
-# AZ-104-study-sheet
+# AZ-104 Study Guide
 
 Hi!
 
